@@ -1,0 +1,4 @@
+#selector="JMSCorrelationID=download_initiated" 
+ 
+# Directory Constants 
+DEPL_DIR="${CDS_HOME}/deployment/${CDS_DEPL_NAME}" 
