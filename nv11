@@ -1,0 +1,2 @@
+    String topicName = null; 
+    if (args.length == 9) 
