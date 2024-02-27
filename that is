@@ -1,0 +1,2 @@
+    // Update the information that is shown to the user 
+    return inContentInfo; 
