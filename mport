@@ -1,0 +1,5 @@
+import com.sun.content.server.service.security.util.*; 
+ 
+// import external required packages to connect to the directory service 
+ 
+public class SampleExternalProxy 
