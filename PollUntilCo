@@ -1,0 +1,3 @@
+            destinationUri: destinationUri
+        );
+        job = job.PollUntilCompleted().ThrowOnAnyError();  // Waits for the job to complete.
