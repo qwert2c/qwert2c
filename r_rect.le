@@ -1,0 +1,4 @@
+                elif gameover_rect.left < pos[0] < gameover_rect.right and \
+                     gameover_rect.top < pos[1] < gameover_rect.bottom:
+                     pygame.quit()
+                     sys.exit()
