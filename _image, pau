@@ -1,0 +1,7 @@
+                     sys.exit()
+ 
+        screen.blit(paused_image, paused_rect)
+ 
+        # 切换图片
+        if not(delay % 5):
+            switch_image = not switch_image
