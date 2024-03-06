@@ -1,0 +1,8 @@
+        r = new Random();
+        messgePanel = new PanelShow();
+        initMap(new File("map/" + map));
+ 
+        try {
+            myTank = new Tank(selfBorn.getX(), selfBorn.getY(), true, allTanks,
+                    walls, irons, golds, missles, home, booms, style);
+        } catch (Exception e1) {
