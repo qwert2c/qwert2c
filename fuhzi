@@ -1,0 +1,7 @@
+ >>> hi = '''hi 
+there'''
+>>> hi   # repr()
+'hi\nthere'
+>>> print hi  # str()
+hi 
+there  
