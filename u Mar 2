@@ -1,0 +1,6 @@
+Starting Thread-1
+Starting Thread-2
+Exiting Main Thread
+Thread-1: Thu Mar 21 09:10:03 2013
+Thread-1: Thu Mar 21 09:10:04 2013
+Thread-2: Thu Mar 21 09:10:04 2013
