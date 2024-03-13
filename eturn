@@ -1,0 +1,6 @@
+	if(month<3) return month+13;
+	else return month+1;
+}
+
+long int n(int year,int month,int day)
+{
