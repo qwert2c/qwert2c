@@ -1,0 +1,3 @@
+    for mode in algorithm_list:
+        precision, recall, accuracy, f1_score, auc = classifier_hub(data, mode)
+        print(mode, precision, recall, accuracy, f1_score, auc)
