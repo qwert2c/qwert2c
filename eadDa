@@ -1,0 +1,5 @@
+            int readData = 0;
+            while ((readData = fis.read()) != -1) {
+                System.out.print(readData + " ");
+            }
+        } catch (IOException e) {
