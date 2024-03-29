@@ -1,0 +1,5 @@
+@Service
+@Slf4j
+public class RedisJob {
+    @Autowired
+    private StringRedisTemplate stringRedisTemplate;
