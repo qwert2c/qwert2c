@@ -1,0 +1,3 @@
+
+    public DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+    public LocalDateTime end = LocalDateTime.of(LocalDate.of(2020, 5, 12), LocalTime.of(8, 0));
