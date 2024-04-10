@@ -1,0 +1,5 @@
+ * $END$
+ */
+@OsgiReference
+@Setter
+private $TYPE$ $NAME$;
