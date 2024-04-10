@@ -1,0 +1,8 @@
+private $TYPE$ $NAME$;
+==========
+<main>
+----------
+public static void main(String[] args) {
+     $END$
+}
+==========
